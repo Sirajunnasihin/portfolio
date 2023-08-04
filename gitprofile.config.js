@@ -44,18 +44,25 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Universitas Teknologi Sumbawa',
+      position: 'Staff IT',
+      from: '2018',
+      to: '2020',
+      companyLink: 'https://uts.ac.id',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Satgas TP3 RTG NTB',
+      position: 'IT Support and Web Developer',
+      from: '2021',
+      to: '2022',
+      companyLink: 'https://bpbd.ntbprov.go.id',
+    },
+    {
+      company: 'Politeknik Medica Farma Husada Mataram',
+      position: 'Head of IT and Lecture',
+      from: '2022',
+      to: 'Present',
+      companyLink: 'https://politeknikmfh.ac.id',
     },
   ],
   /* certifications: [
@@ -84,18 +91,67 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'SPMI UTS',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Sistem Penjaminan Mutu Internal Universitas Teknologi Sumbawa',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://uts.ac.id',
     },
     {
-      title: 'Project Name',
+      title: 'SIRKON',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Sistem Informasi Rehabilitasi dan Rekonstruksi Rumah terdampak Gempa',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://sirkon.id',
+    },
+    {
+      title: 'E-Arsip LPJ RTG',
+      description:
+        'Web Arsip Laporan Pertanggungjawaban Rumah Terdampak Gempa untuk kebutuhan internal dan lokal',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://sirkon.id',
+    },
+    {
+      title: 'SISLABLING',
+      description:
+        'Sistem Informasi Laboratorium Lingkungan DLHK NTB',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://sislabling.net',
+    },
+    {
+      title: 'STIMULAN',
+      description:
+        'Sistem Informasi Monitoring dan Evaluasi Penjaminan Mutu Universitas Muhammadiyah Mataram',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://spa.stimulan-ummat.id',
+    },
+    {
+      title: 'SIMKEU',
+      description:
+        'Sistem Informasi Manajemen Keuangan Politeknik Medica Farma Husada Mataram',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://simkeu.politeknikmfh.ac.id',
+    },
+    {
+      title: 'Website MFH',
+      description:
+        'Website Education Politeknik Medica Farma Husada Mataram',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://politeknikmfh.ac.id',
+    },
+    {
+      title: 'SIPENMARU',
+      description:
+        'Sistem Informasi Penerimaan Mahasiswa Baru Politeknik Medica Farma Husada Mataram',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://pmb.politeknikmfh.ac.id',
+    },
+    {
+      title: 'E-Commerce',
+      description:
+        'E-Commerce Horden',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: '#',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
