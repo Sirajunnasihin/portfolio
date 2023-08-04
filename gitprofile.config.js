@@ -75,16 +75,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'STMIK LIKMI Bandung',
+      degree: 'Master',
+      from: '2020',
+      to: '2022',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Universitas Teknologi Sumbawa',
+      degree: 'Sarjana',
+      from: '2015',
+      to: '2019',
     },
   ],
 
@@ -135,7 +135,7 @@ const config = {
     {
       title: 'Website MFH',
       description:
-        'Website Education Politeknik Medica Farma Husada Mataram',
+        'Website Kampus Politeknik Medica Farma Husada Mataram',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://politeknikmfh.ac.id',
     },
@@ -157,7 +157,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
