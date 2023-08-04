@@ -4,7 +4,7 @@ const config = {
   github: {
     username: 'sirajunnasihin', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 6, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -76,13 +76,13 @@ const config = {
   education: [
     {
       institution: 'STMIK LIKMI Bandung',
-      degree: 'Master',
+      degree: 'Master Sistem Informasi',
       from: '2020',
       to: '2022',
     },
     {
       institution: 'Universitas Teknologi Sumbawa',
-      degree: 'Sarjana',
+      degree: 'Sarjana Teknik Informatika',
       from: '2015',
       to: '2019',
     },
