@@ -91,6 +91,18 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'SIMAMI',
+      description: 'Sistem Informasi Manajemen Administrasi Izin Universitas Teknologi Sumbawa',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://simami.uts.ac.id',
+    },
+    {
+      title: 'SIMILEA',
+      description: 'Sistem Informasi Monitoring Evaluasi Beasiswa Mahasiswa Universitas Teknologi Sumbawa',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://similea.uts.ac.id',
+    },
+    {
       title: 'SPMI UTS',
       description:
         'Sistem Penjaminan Mutu Internal Universitas Teknologi Sumbawa',
