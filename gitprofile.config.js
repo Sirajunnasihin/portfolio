@@ -161,7 +161,7 @@ const config = {
     {
       title: 'E-Commerce',
       description:
-        'E-Commerce Horden',
+        'E-Commerce Horden di Tanggerang Selatan menggunakan wordpress dan plugin wp commerce',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: '#',
     },
