@@ -156,7 +156,7 @@ const config = {
       description:
         'Sistem Informasi Penerimaan Mahasiswa Baru Politeknik Medica Farma Husada Mataram',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://pmb.politeknikmfh.ac.id',
+      link: 'https://new-pmb.politeknikmfh.ac.id',
     },
     {
       title: 'E-Commerce',
@@ -164,6 +164,13 @@ const config = {
         'E-Commerce Horden',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: '#',
+    },
+    {
+      title: 'SIKOMAS SESAIT',
+      description:
+        'Sistem Informasi Kelompok Masyarakat untuk pengenalan wisata dan wisata yang dihasilkan atau dikelola oleh kelompok masyarakat, dan dilengkapi dengan pencatatan penjualan',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://www.sikomas-sesait.biz.id',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
