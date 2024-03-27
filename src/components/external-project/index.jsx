@@ -131,8 +131,8 @@ const ExternalProject = ({ externalProjects, loading, googleAnalytics }) => {
   return (
     <Fragment>
       {displaySection(externalProjects) && (
-        <div className="col-span-1 lg:col-span-1">
-          <div className="grid grid-cols-3 gap-4">
+        <div className="col-span-1 lg:col-span-2">
+          <div className="grid grid-cols-4 gap-2">
             <div className="col-span-2">
               <div className="card compact bg-base-100 shadow bg-opacity-40">
                 <div className="card-body">
@@ -148,7 +148,7 @@ const ExternalProject = ({ externalProjects, loading, googleAnalytics }) => {
                     </h5>
                   </div>
                   <div className="col-span-2">
-                    <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                    <div className="grid grid-cols-1 md:grid-cols-4 gap-2">
                       {loading ? renderSkeleton() : renderExternalProjects()}
                     </div>
                   </div>
