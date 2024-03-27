@@ -138,6 +138,20 @@ const config = {
       link: 'https://spa.stimulan-ummat.id',
     },
     {
+      title: 'SPMI',
+      description:
+        'Sistem Informasi Penjaminan Mutu Internal STIKES MATARAM',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://sistem-spmi.net',
+    },
+    {
+      title: 'SPMI',
+      description:
+        'Sistem Informasi Penjaminan Mutu Internal Politeknik MFH MATARAM',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://spmi.politeknikmfh.ac.id',
+    },
+    {
       title: 'SIMKEU',
       description:
         'Sistem Informasi Manajemen Keuangan Politeknik Medica Farma Husada Mataram',
